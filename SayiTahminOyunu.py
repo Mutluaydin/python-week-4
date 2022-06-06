@@ -8,7 +8,7 @@ import random
    ** Hak bilgisini kullanıcıdan alın ve her soru belirtilen can sayısı
       üzerinden hesaplansın.
 '''
-sayi = random.randint(1,10)
+sayi = random.randint(1,100)
 can = int(input("can sayisini girin: "))
 hak = can
 sayac = 0
